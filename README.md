@@ -42,27 +42,12 @@ Most of my work sits in private and organization repos, so the graph below says 
 ╰──────────────────────┴───────────────────────────────────────────────────────────────────────────────────────╯
 ```
 
-```
-╭──────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
-│                                -#:                                                                           │
-│         **%@@@%=             .*@%. -:            :=#%##%#=:          .**+*==*+**            :=#@@#=:         │
-│         %+#%@@@%            +@@+. :%#          .+%#+=+==+#%+.         %  =@@=  %         :*%@@@##@@@%*:      │
-│     :+###%##@@@%+#*:      -%@#:    ..:*-      .*@@#*####*=+@*.      -=%*%#++#%*%=-       #@#%**==**%#@#      │
-│     %@@@@@@@@@@*#@@%     -@@-        -@@-     +%**@@%**%@#-*@+     #+:-@+-%%-+@--+#     -@@%--*==*--%@@-     │
-│     @@@@*######*@@@@     %@= .        -@%     #@- %@%*#@@= +@#     #+:-@+-%%-+@-:+#     *@@*=#:--:#=*@@*     │
-│     %@@#*@@@@@@@@@@%     @@..         .@@     +@#*@@@#:#@@*@@+      -=%*%#++#%*@=-      @@#*:*+-=+*:*#@@     │
-│     :*#+%@@@##%###+:     %@=          =@#     .*@@#+=+ .+*%@*.        %  =@@=  %        -%@@%+:**:+%@@%-     │
-│         %@@@%#*%         :%@=        =@%:      .+%##=-==##%+.         **+*==*+**.        .*@@*#%%#*@@*.      │
-│         =%@@@%**          :#@%+=--=+%@#:         :=*%%%%*=:                                =%@@@@@@%=        │
-│                             -*%@@@@%*-                                                                       │
-│          Python              PyTorch                Rust                React              Kubernetes        │
-├──────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ ML / CV     PyTorch · Detectron2 · DINO and DINOv2 · OpenCV · ONNX · TensorRT · Triton                       │
-│ Languages   Python · TypeScript · Rust · Ruby · C# · Swift · SQL · C++                                       │
-│ Services    FastAPI · Next.js · Rails · Node and NestJS · React Native · LiveKit                             │
-│ Data        PostgreSQL · PostGIS · Redis · Supabase                                                          │
-│ Infra       Docker · Kubernetes · GCP · AWS · Railway · GitHub Actions                                       │
-╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
-```
+| | |
+|:--|:--|
+| **ML &amp; Vision** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&style=for-the-badge&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&style=for-the-badge&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&style=for-the-badge&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=onnx&style=for-the-badge&logoColor=white) ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?logo=nvidia&style=for-the-badge&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=for-the-badge&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&style=for-the-badge&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&style=for-the-badge&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&style=for-the-badge&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&style=for-the-badge&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&style=for-the-badge&logoColor=white) |
+| **Backend &amp; Web** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&style=for-the-badge&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&style=for-the-badge&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&style=for-the-badge&logoColor=white) ![Rails](https://img.shields.io/badge/Rails-D30001?logo=rubyonrails&style=for-the-badge&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&style=for-the-badge&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&style=for-the-badge&logoColor=61DAFB) ![LiveKit](https://img.shields.io/badge/LiveKit-002CF2?logo=livekit&style=for-the-badge&logoColor=white) |
+| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&style=for-the-badge&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&style=for-the-badge&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&style=for-the-badge&logoColor=white) |
+| **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&style=for-the-badge&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&style=for-the-badge&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&style=for-the-badge&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&style=for-the-badge&logoColor=white) |
 
 [Marrow](https://github.com/aryawidjaja/marrow) · [LinkedIn](https://www.linkedin.com/in/mutaqinaryawijaya) · [mutaqin@aryawijaya.com](mailto:mutaqin@aryawijaya.com) · Open to part-time senior work, remote
