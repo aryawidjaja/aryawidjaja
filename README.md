@@ -18,29 +18,14 @@
 
 Most of my work sits in private and organization repos, so the graph below says little. This is what is in them.
 
-```
-╭──────────────────────┬───────────────────────────────────────────────────────────────────────────────────────╮
-│ Boon AI              │ Open-vocabulary symbol takeoff: counts symbols the model was never trained on, from a │
-│ AI/ML Engineer       │ single example a user points at. Electrical takeoff and branch-circuit inference on   │
-│ 2025 to now          │ dense plan sets. A voice agent that calls drivers and structures what they say.       │
-├──────────────────────┼───────────────────────────────────────────────────────────────────────────────────────┤
-│ WorkInsights         │ Workforce analytics SaaS, 150+ company accounts. Windows C# and macOS Swift agents, a │
-│ Co-founder           │ Next.js dashboard, a React Native app, and the Node and Postgres backend under all of │
-│ 2025 to now          │ it.                                                                                   │
-├──────────────────────┼───────────────────────────────────────────────────────────────────────────────────────┤
-│ Aimé                 │ Real-time clinical speech: diarization, live transcripts, generated notes. Clinicians │
-│ Co-founder           │ reported up to 10x less time charting.                                                │
-│ 2024 to 2026         │                                                                                       │
-├──────────────────────┼───────────────────────────────────────────────────────────────────────────────────────┤
-│ Marrow               │ Memory for AI agents. Rust, MCP, open source. A 75-run benchmark measured 2.1x less   │
-│ Creator              │ context per turn at 1,000 facts (p = 0.002).                                          │
-│ 2026                 │                                                                                       │
-├──────────────────────┼───────────────────────────────────────────────────────────────────────────────────────┤
-│ Mata Garuda          │ 27-class road damage detection at over 80% accuracy. Spatial queries cut from 30s to  │
-│ CV + Geospatial      │ under 1s across 50,000 records.                                                       │
-│ 2024                 │                                                                                       │
-╰──────────────────────┴───────────────────────────────────────────────────────────────────────────────────────╯
-```
+| | |
+|:--|:--|
+| **Boon AI**<br>*Full-time* | Open-vocabulary symbol takeoff: counts symbols the model was never trained on, from a single example a user points at. Electrical takeoff and branch-circuit inference on dense plan sets. A voice agent that calls drivers and turns the call into structured data. |
+| **SentBe**<br>*Full-time, previously* | Internal operations platform for a Singapore remittance company. Daily transaction forecasting, balance tracking and fund scheduling for FX operations, plus an assistant for navigating internal company data. |
+| **Marrow**<br>*Side project* | Memory for AI agents. Rust, MCP, open source. A 75-run benchmark measured 2.1x less context per turn at 1,000 facts (p = 0.002). |
+| **WorkInsights**<br>*Side project* | Workforce analytics SaaS with 150+ company accounts. Windows C# and macOS Swift agents, a Next.js dashboard, a React Native app, and the Node and Postgres backend under all of it. |
+| **Aimé**<br>*Side project* | Real-time clinical speech: diarization, live transcripts, generated notes. Clinicians reported up to 10x less time charting. |
+| **Mata Garuda**<br>*Side project* | 27-class road damage detection at over 80% accuracy. Spatial queries cut from 30s to under 1s across 50,000 records. |
 
 | | |
 |:--|:--|
