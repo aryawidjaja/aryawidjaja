@@ -27,8 +27,7 @@ Nearly four years building computer vision, agentic AI and the products around t
 | **WorkInsights**<br>*Side project* | Workforce analytics SaaS with 150+ company accounts. Windows C# and macOS Swift agents, a Next.js dashboard, a React Native app, and the Node and Postgres backend under all of it. |
 | **Aimé**<br>*Side project* | Real-time clinical speech: diarization, live transcripts, generated notes. Clinicians reported up to 10x less time charting. |
 | **Buatin.mba**<br>*Side project* | Household finance app on Next.js and Supabase. Row-level security throughout, a background worker for email and document jobs, and Redis for queue wake-ups and distributed rate limiting. |
-| **Hit the Corner**<br>*Side project* | The internet's shared logo screensaver. A deterministic canvas scene with a reduced-motion alternative, PayPal orders with verified webhooks, and server-side DNS and redirect checks on every submitted destination. |
-| **BlockMe**<br>*Side project* | An endless public tower of paid brand blocks, where each block's visible area is exactly proportional to what was paid. Blocks settle, get buried by later drops, and are never deleted. |
+| **Hit the Corner**<br>*Side project* | The fun one. The internet's shared logo screensaver, with Dodo Payments behind it. |
 | **Mata Garuda**<br>*Side project* | 27-class road damage detection at over 80% accuracy. Spatial queries cut from 30s to under 1s across 50,000 records. |
 
 | | |
