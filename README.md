@@ -20,14 +20,14 @@ Nearly four years building computer vision, agentic AI and the products around t
 
 | | |
 |:--|:--|
-| **Boon AI**<br>*Full-time* | Open-vocabulary symbol takeoff: counts symbols the model was never trained on, from a single example a user points at. Electrical takeoff and branch-circuit inference on dense plan sets. A voice agent that calls drivers and turns the call into structured data. |
-| **SentBe**<br>*Full-time, previously* | Internal operations platform for a Singapore remittance company. Daily transaction forecasting, balance tracking and fund scheduling for FX operations, plus an assistant for navigating internal company data. |
-| **Marrow**<br>*Side project* | Memory for AI agents. Rust, MCP, open source. A 75-run benchmark measured 2.1x less context per turn at 1,000 facts (p = 0.002). |
-| **Spinal Cloud**<br>*Side project* | The hosted relay behind Marrow, so a team can share one memory across machines without running the infrastructure themselves. A twelve-crate Rust workspace covering auth, billing, the relay bus, and a hash-chained journal. |
-| **WorkInsights**<br>*Side project* | Workforce analytics SaaS with 150+ company accounts. Windows C# and macOS Swift agents, a Next.js dashboard, a React Native app, and the Node and Postgres backend under all of it. |
-| **Aimé**<br>*Side project* | Real-time clinical speech: diarization, live transcripts, generated notes. Clinicians reported up to 10x less time charting. |
-| **Buatin.mba**<br>*Side project* | Household finance app on Next.js and Supabase. Row-level security throughout, a background worker for email and document jobs, and Redis for queue wake-ups and distributed rate limiting. |
-| **Hit the Corner**<br>*Side project* | The fun one. The internet's shared logo screensaver, with Dodo Payments behind it. |
+| **[Boon AI](https://getboon.ai/)**<br>*Full-time* | Open-vocabulary symbol takeoff: counts symbols the model was never trained on, from a single example a user points at. Electrical takeoff and branch-circuit inference on dense plan sets. A voice agent that calls drivers and turns the call into structured data. |
+| **[SentBe](https://corporate.sentbe.com/sentbe?lang=en)**<br>*Full-time, previously* | Internal operations platform for a Singapore remittance company. Daily transaction forecasting, balance tracking and fund scheduling for FX operations, plus an assistant for navigating internal company data. |
+| **[Marrow](https://www.marrow.works/)**<br>*Side project* | Memory for AI agents. Rust, MCP, open source. A 75-run benchmark measured 2.1x less context per turn at 1,000 facts (p = 0.002). |
+| **[Spinal Cloud](https://spinal.cloud/)**<br>*Side project* | The hosted relay behind Marrow, so a team can share one memory across machines without running the infrastructure themselves. A twelve-crate Rust workspace covering auth, billing, the relay bus, and a hash-chained journal. |
+| **[WorkInsights](https://www.workinsights.online/)**<br>*Side project* | Workforce analytics SaaS with 150+ company accounts. Windows C# and macOS Swift agents, a Next.js dashboard, a React Native app, and the Node and Postgres backend under all of it. |
+| **[Aimé](https://aime.med/)**<br>*Side project* | Real-time clinical speech: diarization, live transcripts, generated notes. Clinicians reported up to 10x less time charting. |
+| **[Buatin.mba](https://buatin.mba/)**<br>*Side project* | Household finance app on Next.js and Supabase. Row-level security throughout, a background worker for email and document jobs, and Redis for queue wake-ups and distributed rate limiting. |
+| **[Hit the Corner](https://hitthecorner.lol/)**<br>*Side project* | The fun one. The internet's shared logo screensaver, with Dodo Payments behind it. |
 | **Mata Garuda**<br>*Side project* | 27-class road damage detection at over 80% accuracy. Spatial queries cut from 30s to under 1s across 50,000 records. |
 
 | | |
